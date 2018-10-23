@@ -8,23 +8,6 @@
     font-style: normal;
 }
 
-/*  7-stroke (http://themes-pixeden.com/font-demos/7-stroke/index.html) */
-@font-face {
-    font-family: 'Icon7Stroke';
-    src: url(fonts/Pe-icon-7-stroke.eot?d7yf1v);
-    src: url(fonts/Pe-icon-7-stroke.eot?#iefixd7yf1v) format('embedded-opentype'),url(fonts/Pe-icon-7-stroke.woff?d7yf1v) format('woff'),url(fonts/Pe-icon-7-stroke.ttf?d7yf1v) format('truetype'),url(fonts/Pe-icon-7-stroke.svg?d7yf1v#Pe-icon-7-stroke) format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
-/*  Custom 'wedding' font */
-@font-face {
-    font-family: 'Wedding';
-    src: url(fonts/wedding.eot?dfbx70);
-    src: url(fonts/wedding.eot?dfbx70#iefix) format('embedded-opentype'),url(fonts/wedding.ttf?dfbx70) format('truetype'),url(fonts/wedding.woff?dfbx70) format('woff'),url(fonts/wedding.svg?dfbx70#wedding) format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
 
 /* Variables */
 // Base gutter width // Headline fond // Headline supertitle font // Headline subtitle font // Base font // Base font // Base font size // Base font color // Base headline color // Base bg color // Base border color // Sub bg color // Base font color // Base headline color // Base bg color // Base border color // Sub bg color // Main color // Main color paled // Sidebar width (%) // Padding between sidebar and sontent // Left and right page padding for boxed content // Top and bottom padding between content elements (base value) // RowItem padding // Default spacing in grid gallery // Defines logo height and menu line height // Top and bottom padding of the whole horizontal menu (px) // Padding between horizontal menu elements (px) // Width of the vertical menu (px) // Top bar height (px) // dropdown width (px) // Small icon size // Small icon size // Small icon size // Small icon size // Small icon size /* Aliases */
