@@ -219,11 +219,11 @@
 			//first test need for matchMedia polyfill
 			{
 				test: window.matchMedia,
-				nope: '/js/media.match.min.js'
+				nope: 'js/media.match.min.js'
 			},
 			//and then load enquire
 			{
-				load : '/js/enquire.min.js',
+				load : 'js/enquire.min.js',
 				complete : function() {
 					//load supersized if NOT mobile.
 					$(function() {
