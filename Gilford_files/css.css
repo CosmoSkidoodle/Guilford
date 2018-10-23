@@ -1,0 +1,126 @@
+@font-face {
+	font-family: Josefin Sans;
+	src: local("Josefin Sans Thin Italic"), local("JosefinSans-ThinItalic"), url(https://fonts.gstatic.com/s/josefinsans/v12/Qw3GZQNVED7rKGKxtqIqX5EUCEQZbHQEiQ.woff) format("woff");
+	font-weight: 100;
+	font-style: italic;
+}
+@font-face {
+	font-family: Josefin Sans;
+	src: local("Josefin Sans Light Italic"), local("JosefinSans-LightItalic"), url(https://fonts.gstatic.com/s/josefinsans/v12/Qw3HZQNVED7rKGKxtqIqX5EUCETRfm0tqpg.woff) format("woff");
+	font-weight: 300;
+	font-style: italic;
+}
+@font-face {
+	font-family: Josefin Sans;
+	src: local("Josefin Sans Italic"), local("JosefinSans-Italic"), url(https://fonts.gstatic.com/s/josefinsans/v12/Qw3EZQNVED7rKGKxtqIqX5EUCEx0XH4.woff) format("woff");
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face {
+	font-family: Josefin Sans;
+	src: local("Josefin Sans SemiBold Italic"), local("JosefinSans-SemiBoldItalic"), url(https://fonts.gstatic.com/s/josefinsans/v12/Qw3HZQNVED7rKGKxtqIqX5EUCESleG0tqpg.woff) format("woff");
+	font-weight: 600;
+	font-style: italic;
+}
+@font-face {
+	font-family: Josefin Sans;
+	src: local("Josefin Sans Bold Italic"), local("JosefinSans-BoldItalic"), url(https://fonts.gstatic.com/s/josefinsans/v12/Qw3HZQNVED7rKGKxtqIqX5EUCETBeW0tqpg.woff) format("woff");
+	font-weight: 700;
+	font-style: italic;
+}
+@font-face {
+	font-family: Josefin Sans;
+	src: local("Josefin Sans Thin"), local("JosefinSans-Thin"), url(https://fonts.gstatic.com/s/josefinsans/v12/Qw3EZQNVED7rKGKxtqIqX5Ecbkx0XH4.woff) format("woff");
+	font-weight: 100;
+	font-style: normal;
+}
+@font-face {
+	font-family: Josefin Sans;
+	src: local("Josefin Sans Light"), local("JosefinSans-Light"), url(https://fonts.gstatic.com/s/josefinsans/v12/Qw3FZQNVED7rKGKxtqIqX5Ecpl5tdV0n.woff) format("woff");
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: Josefin Sans;
+	src: local("Josefin Sans Regular"), local("JosefinSans-Regular"), url(https://fonts.gstatic.com/s/josefinsans/v12/Qw3aZQNVED7rKGKxtqIqX5EUA3x-.woff) format("woff");
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: Josefin Sans;
+	src: local("Josefin Sans SemiBold"), local("JosefinSans-SemiBold"), url(https://fonts.gstatic.com/s/josefinsans/v12/Qw3FZQNVED7rKGKxtqIqX5Ec0lhtdV0n.woff) format("woff");
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+	font-family: Josefin Sans;
+	src: local("Josefin Sans Bold"), local("JosefinSans-Bold"), url(https://fonts.gstatic.com/s/josefinsans/v12/Qw3FZQNVED7rKGKxtqIqX5EctlltdV0n.woff) format("woff");
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: Josefin Slab;
+	src: local("Josefin Slab Thin Italic"), local("JosefinSlab-ThinItalic"), url(https://fonts.gstatic.com/s/josefinslab/v8/lW-lwjwOK3Ps5GSJlNNkMalnrzbOPs3APQ.woff) format("woff");
+	font-weight: 100;
+	font-style: italic;
+}
+@font-face {
+	font-family: Josefin Slab;
+	src: local("Josefin Slab Light Italic"), local("JosefinSlab-LightItalic"), url(https://fonts.gstatic.com/s/josefinslab/v8/lW-kwjwOK3Ps5GSJlNNkMalnrzYGLNrnHgg.woff) format("woff");
+	font-weight: 300;
+	font-style: italic;
+}
+@font-face {
+	font-family: Josefin Slab;
+	src: local("Josefin Slab Italic"), local("JosefinSlab-Italic"), url(https://fonts.gstatic.com/s/josefinslab/v8/lW-nwjwOK3Ps5GSJlNNkMalnrz6tDsk.woff) format("woff");
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face {
+	font-family: Josefin Slab;
+	src: local("Josefin Slab SemiBold Italic"), local("JosefinSlab-SemiBoldItalic"), url(https://fonts.gstatic.com/s/josefinslab/v8/lW-kwjwOK3Ps5GSJlNNkMalnrzZyKtrnHgg.woff) format("woff");
+	font-weight: 600;
+	font-style: italic;
+}
+@font-face {
+	font-family: Josefin Slab;
+	src: local("Josefin Slab Bold Italic"), local("JosefinSlab-BoldItalic"), url(https://fonts.gstatic.com/s/josefinslab/v8/lW-kwjwOK3Ps5GSJlNNkMalnrzYWK9rnHgg.woff) format("woff");
+	font-weight: 700;
+	font-style: italic;
+}
+@font-face {
+	font-family: Josefin Slab;
+	src: local("Josefin Slab Thin"), local("JosefinSlab-Thin"), url(https://fonts.gstatic.com/s/josefinslab/v8/lW-nwjwOK3Ps5GSJlNNkMalvyT6tDsk.woff) format("woff");
+	font-weight: 100;
+	font-style: normal;
+}
+@font-face {
+	font-family: Josefin Slab;
+	src: local("Josefin Slab Light"), local("JosefinSlab-Light"), url(https://fonts.gstatic.com/s/josefinslab/v8/lW-mwjwOK3Ps5GSJlNNkMalvASy6Kerj.woff) format("woff");
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: Josefin Slab;
+	src: local("Josefin Slab Regular"), local("JosefinSlab-Regular"), url(https://fonts.gstatic.com/s/josefinslab/v8/lW-5wjwOK3Ps5GSJlNNkMalnqg6p.woff) format("woff");
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: Josefin Slab;
+	src: local("Josefin Slab SemiBold"), local("JosefinSlab-SemiBold"), url(https://fonts.gstatic.com/s/josefinslab/v8/lW-mwjwOK3Ps5GSJlNNkMalvdSq6Kerj.woff) format("woff");
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+	font-family: Josefin Slab;
+	src: local("Josefin Slab Bold"), local("JosefinSlab-Bold"), url(https://fonts.gstatic.com/s/josefinslab/v8/lW-mwjwOK3Ps5GSJlNNkMalvESu6Kerj.woff) format("woff");
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: Montez;
+	src: local("Montez Regular"), local("Montez-Regular"), url(https://fonts.gstatic.com/s/montez/v8/845ZNMk5GoGIX8lW07rZ.woff) format("woff");
+	font-weight: 400;
+	font-style: normal;
+}
